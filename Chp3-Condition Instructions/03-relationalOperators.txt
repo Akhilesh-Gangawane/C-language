@@ -1,0 +1,10 @@
+Relational operators in C
+
+==, >=,<=,!=
+== is equal to
+'=' this is used for assignment of variable
+
+!= this is not equal to sign
+
+even characters, non zero value(2.3024,-45) are valid in 'if' statement.
+but zero is not executed in 'if' statement. .

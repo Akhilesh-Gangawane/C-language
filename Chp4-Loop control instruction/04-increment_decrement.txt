@@ -1,0 +1,5 @@
+i++ prints first and then increments
+++i increments first and then prints
+
+i-- prints first and then decrements
+--i decrements first and then prints

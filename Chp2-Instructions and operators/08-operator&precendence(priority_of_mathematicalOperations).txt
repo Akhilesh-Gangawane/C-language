@@ -1,0 +1,12 @@
+3*x-8*y is 3x-8y or3(x-8y)?
+BODMAS never apply in the c language
+
+ priority     Operators
+  1             *,/,%
+  2              +,-
+  3               =
+
+this priority order is applicable is parenthesis like()this is not their if it is their then operation will happen according to that.
+
+if same priority operator come at same time then left to right is the order
+ not recommened this use brackets it is convineint 
