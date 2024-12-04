@@ -1,0 +1,1 @@
+Pointer is a variable which stores value of another variable
