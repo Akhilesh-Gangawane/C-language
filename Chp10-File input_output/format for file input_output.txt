@@ -1,0 +1,5 @@
+"r" ->open for reading
+"rb" -> open for reading in binanary
+"w" -> open for writing
+"wb" -> open for writing in binary
+"a" -> open for append(adding something at the end of the documents). "if the file does not exist it will create it"
